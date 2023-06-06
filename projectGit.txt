@@ -4,3 +4,6 @@ create a folder
 
 Start a project
 Start application
+
+Create Url
+Check Settings
