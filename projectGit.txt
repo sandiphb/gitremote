@@ -1,3 +1,6 @@
 Create a project
 
 create a folder
+
+Start a project
+Start application
